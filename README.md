@@ -305,10 +305,34 @@
         <img src="https://komarev.com/ghpvc/?username=kiitcsesgpacalculator&label=Profile%20views&color=0e75b6&style=flat" alt="visitorcount" />
       </h4>
     </td>
+    <td>
+      <h4>
+        <a href="https://bibekchandsah.github.io/kiitcse/Feedback_Form.html" target="_blank">Feedback form 👉 </a><br/>
+        <img src="https://komarev.com/ghpvc/?username=kiitcsefeedbackform&label=Profile%20views&color=0e75b6&style=flat" alt="visitorcount" />
+      </h4>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>
+        <a href="https://bibekchandsah.github.io/kiitcse/index.html" target="_blank">index 👉 </a><br/>
+        <img src="https://komarev.com/ghpvc/?username=kiitcse&label=Profile%20views&color=0e75b6&style=flat" alt="visitorcount" />
+      </h4>
+    </td>
+    <td>
+      <h4>
+        <a href="https://bibekchandsah.github.io/kiitcse/404.html" target="_blank">404 👉 </a><br/>
+        <img src="https://komarev.com/ghpvc/?username=kiitcse404&label=Profile%20views&color=0e75b6&style=flat" alt="visitorcount" />
+      </h4>
+    </td>
+    <td>
+      <h4>
+        <a href="https://bibekchandsah.github.io/kiitcse/thankyou.html" target="_blank">thankyou 👉 </a><br/>
+        <img src="https://komarev.com/ghpvc/?username=kiitcsesgpathankyou&label=Profile%20views&color=0e75b6&style=flat" alt="visitorcount" />
+      </h4>
+    </td>
   </tr>
 </table>
-
-
 
 
 
