@@ -6,6 +6,8 @@
 - <a href="#homepage">Homepage</a>
 - <a href="#kiitcse">KIIT CSE</a>
 
+<img src="https://komarev.com/ghpvc/?username=bibekchandsahreadmegenerator&label=Profile%20views&color=0e75b6&style=flat" alt="visitorcount" />
+
 <!-- Bibek Chand Sah (BCS) -->
 <h3 id="bibekchandsah" align="left"><a href="bibekchandsah.com.np" target="blank">Bibek chand sah</a></h3><hr>
 <table style="width:100%; text-align:center;">
